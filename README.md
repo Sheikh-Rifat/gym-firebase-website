@@ -8,7 +8,8 @@ In the project, I made a website using react for frontend and firebase authentic
 
 ### Things Used and Covered
 
-Packages used :
+### Packages used
+
 -React js
 -Firebase
 -React Router
@@ -17,7 +18,8 @@ Packages used :
 -React hook form
 -context api
 
-Things Covered:
+### Things Covered
+
 -Home page including navbar, banner, services, membership, about ,newsletter, footer
 -login authentication using emai,password and google sign in
 -Clicking on the button of service card will route to a detailed page
@@ -28,7 +30,8 @@ Things Covered:
 -added to more routes from membership and about section
 -added a 404 error (not found ) page.
 
-Bonus covered :
+### Bonus covered
+
 -After reloading a private route page fixed the bug of showing login page
 -Used Context Api
 -Responsive
