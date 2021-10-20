@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "tag": "Sculpt the muscles on your muscles",
+    "Name": "Tapout Strong",
+    "image": "https://dj7w0h47bhjwk.cloudfront.net/assets/home-grid/class--chisel-it-d8e7999396170b4808d443476a3cae4e5ce3a5ef012cdb44e2eb9c16a0102ce7.jpg",
+    "price": 200,
+    "duration": "3 Months",
+    "description": "Tapout Strong is a 45 minute total body workout that involves striking on our innovative Focusmaster machines and strength building dumbbell exercises to deliver a fun, game-changing effective class every time you glove up."
+  },
+  {
+    "id": 2,
+    "tag": "Prepare to drip with sweat, get your blood pumping, and want to come back for more.",
+    "Name": "Indoor Cardio",
+    "image": "https://dj7w0h47bhjwk.cloudfront.net/assets/home-grid/class--ride-21a3d3921242a4b7ccecd4d524285d8ea707c929fa74cef5f073bcdd7ae4c796.jpg",
+    "price": 300,
+    "duration": "1.5 Months",
+    "description": "Indoor cycling classes help you shed fat, improve your heart health, and boost your muscle endurance. Your legs will get a serious workout. By the end of class, you’ll have a steady stream of feel-good brain chemicals called endorphins."
+  },
+  {
+    "id": 3,
+    "tag": "Ommm-azingly strengthening.",
+    "Name": "Yoga",
+    "image": "https://dj7w0h47bhjwk.cloudfront.net/assets/home-grid/class--mind-body-burn-5d7798f4909d0c6719a049694b0a56d1cff9865f67b7822bc540ef67a2653a00.jpg",
+    "price": 350,
+    "duration": "3 weeks",
+    "description": "Yoga is a mind and body practice. Various styles of yoga combine physical postures, breathing techniques, and meditation or relaxation. ... It involves movement, meditation, and breathing techniques to promote mental and physical well-being. There are several types of yoga and many disciplines within the practice."
+  },
+  {
+    "id": 4,
+    "tag": "Feel the rhythm while you feel the burn.",
+    "Name": "Cardio & Dance Rhythms",
+    "image": "https://dj7w0h47bhjwk.cloudfront.net/assets/home-grid/class--cardio-dance-rhythms-b05622d78ae72f448d11ed3a99658249eaa2d1e381245546de5eb652679842c9.jpg",
+    "price": 750,
+    "duration": "7 weeks",
+    "description": "This exhilarating cardio class to radio hits (pop, club, hip hop) music uses easy-to-follow moves combining fast and slow rhythms (interval training) to tone and sculpt your body while burning fat.This is a hard hitting combo of HIIT training and muscle work that creates a best of both worlds format!"
+  },
+  {
+    "id": 5,
+    "tag": "Your heart rate is about to raise the roof with our action-packed classes.",
+    "Name": "Action Sports",
+    "image": "https://dj7w0h47bhjwk.cloudfront.net/assets/home-grid/class--action-sports-a3e1f48b852c0879bcb766e4c480fa0bab4ab47edf25508ce7a1ab89beaed95d.jpg",
+    "price": 990,
+    "duration": "1 Year",
+    "description": "This combines exciting striking combinations with functional body weight exercises in a high-intensity, circuit-training format. Learn real boxing techniques on our innovative Focusmaster striking equipment while taking your workout to the next level. Let our certified instructors guide you to the best shape of your life with this transformative workout."
+  },
+  {
+    "id": 6,
+    "tag": "It’s like a weekly bachelorette party, but better.",
+    "Name": "Pole Dance",
+    "image": "https://dj7w0h47bhjwk.cloudfront.net/assets/home-grid/class--something-different-0f0da8f49e2269610a37271f2d1d69329d50362a2187bebf0bd241525552f76b.jpg",
+    "price": 650,
+    "duration": "1.5 Year",
+    "description": "Pole dance combines dance and acrobatics centered on a vertical pole. This performance art form takes place not only in gentleman's clubs as erotic dance, but also as a mainstream form of fitness, practiced in gyms and dedicated dance studios.Pole dance requires significant strength and flexibility."
+  }
+]

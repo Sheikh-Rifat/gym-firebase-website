@@ -1,0 +1,8 @@
+.closest-location {
+  background: linear-gradient(90deg, #e32c3e, #eb5332, #f8971f);
+}
+.footer {
+  background-image: url("../../images/footer-bg.png");
+  background-color: #212121;
+  width: 100%;
+}

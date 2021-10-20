@@ -1,0 +1,10 @@
+.description {
+  font-size: 22px;
+  margin-top: 20px;
+  text-align: justify;
+  padding: 25px 50px;
+}
+
+.img-description img {
+  box-shadow: 0.2rem 0.2rem 2rem rgb(78, 74, 74);
+}

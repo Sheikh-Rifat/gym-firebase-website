@@ -1,0 +1,8 @@
+.custom-btn {
+  background: #ee632d;
+  border: #ee632d;
+  padding: 10px 40px;
+}
+.custom-btn:hover {
+  background: #d25323;
+}

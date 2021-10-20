@@ -1,0 +1,10 @@
+.red {
+  background: #df212e !important;
+}
+.navbar {
+  background: transparent !important;
+}
+
+.navbar.active {
+  background: #212121 !important;
+}
